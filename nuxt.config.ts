@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     ['@nuxtjs/eslint-module', { /* module options */ }],
     '@pinia/nuxt',
     '@nuxtjs/tailwindcss',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
+    '@nuxt/image'
   ]
 });
